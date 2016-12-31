@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 通用 -->
+    <color name="android_black2">#333333</color>
+    <color name="android_common_bg">#ededed</color>
+    <color name="android_white">#FFFFFF</color>
+    <color name="android_light_blue">#317cd3</color>
+    <color name="android_black">#000000</color>
+    <color name="android_light_black">#4c4c4c</color>
+    <color name="android_gray">#808080</color>
+    <color name="android_dark_gray">#555555</color>
+    <color name="android_red">#FF0000</color>
+    <color name="android_transparent">#00000000</color>
+    <color name="half_transparent">#7fffffff</color>
+    <color name="android_orange">#FF8040</color>
+    <color name="android_yellow">#FFFF00</color>
+    <color name="android_green">#8dc500</color>
+    <color name="android_light_gray">#F5F5F5</color>
+    <color name="android_purple">#9933CC</color>
+    <color name="android_transparent_drak">#d0000000</color>
+    <color name="android_gray_white">#F6F6F6</color>
+    <color name="android_gray_white_pressed">#DDDDDD</color>
+    <color name="android_light_green">#00A629</color>
+    <color name="android_dark">#182135</color>
+    <color name="android_layout_bg">#e8e8e8</color>
+    <color name="android_history_bg">#E6E6E6</color>
+    <color name="android_notice_text_color">#7460b5</color>
+    <color name="android_halft_history_bg">#b0E6E6E6</color>
+    <color name="common_back_bg">#10000000</color>
+    <color name="android_blue">#548eec</color>
+    <!-- 通用列表item的背景色 -->
+    <color name="common_list_item_back">#ffffff</color>
+    <!-- 通用列表item的前景色 -->
+    <color name="common_list_item_front">#fafafa</color>
+    <color name="soft_layout_back_white">#ffffff</color>
+
+    <!-- 主色调蓝色 -->
+    <color name="common_orange">#feb822</color>
+    <!-- 半透明蓝色 -->
+    <color name="common_halft_orange">#B5BBBC</color>
+    <!-- 按键浅蓝色 -->
+    <color name="common_light_blue">#98b9df</color>
+    <!-- 设置清除按钮 -->
+    <color name="common_yellow">#a7a7a7</color>
+    <!-- 半透明浅蓝色 -->
+    <color name="common_halft_light_blue">#b098b9df</color>
+    <!-- 按键浅红色 -->
+    <color name="common_light_red">#db4e5c</color>
+    <!-- 半透明浅蓝色 -->
+    <color name="common_halft_light_red">#b0db4e5c</color>
+    <!-- 列表背景色 -->
+    <color name="common_list_back_white">#ffffff</color>
+    <!-- 列表前景色 -->
+    <color name="common_list_front_white">#ffffff</color>
+    <!-- title文字颜色 -->
+    <color name="common_title">#333333</color>
+
+    <!-- 头部前景色 -->
+    <color name="common_title_front_white">#ffffffff</color>
+    <color name="common_title_front_yellow">#ffffd121</color>
+    
+    <!-- 广告图背景 -->
+
+    <!-- 列表 -->
+    <color name="list_item_pressed">#d9d9d9</color>
+
+    <!-- 搜索字体 -->
+    <color name="common_gray_bg">#f3f3f3</color>
+    <color name="common_gray_hotkey">#b2b2b2</color>
+    <color name="common_hotkey">#8C8C8C</color>
+    <color name="search_btn_pressed_font_color">#fddfb6</color>
+    <color name="march_keyword_transparent_bg">#b40b0b0b</color>
+    <color name="search_march_list_divide">#d9d9d9</color>
+
+    <!-- 排序 -->
+    <color name="comment_score">#bbbbbb</color>
+
+    <!-- 专题 -->
+    <color name="topic_cover_text_bg">#b2f7f7f7</color>
+    <color name="topic_title_text_color">#999999</color>
+    <color name="topic_name_text_color">#333333</color>
+    <color name="topic_more_text_color">#ffffff</color>
+    <color name="zero_alpha">#00ffffff</color>
+
+    <!-- 其他 -->
+
+    <!-- 评论 -->
+    <color name="comment_star_notice_orange">#ff7d41</color>
+    <color name="comment_all_comment_title_text_color">#4c4c4c</color>
+    <color name="comment_num_text_color">#464646</color>
+    <color name="comment_time_text_color">#808080</color>
+    <color name="comment_phone_model_sdk">#b8b8b8</color>
+    <color name="comment_history_title_text">#333333</color>
+    <color name="comment_history_number_text">#666666</color>
+    <color name="comment_content_text_color">#666666</color>
+
+    <!-- text appearance -->
+    <color name="text_appearance_h1">#573E01</color>
+
+    <!-- LIST BORDER COLOR -->
+    <color name="rounded_container_border">#ffdcdcdc</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_default">#FDFDFD</color>
+    <color name="base_end_color_default">#FDFDFD</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+    <color name="base_start_color_pressed">#fffafafa</color>
+    <color name="base_end_color_pressed">#fffafafa</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+
+    <!-- 排行榜 -->
+    <color name="rank_bg">#ecedee</color>
+    <color name="rank_item">#f7f7f7</color>
+    <color name="category_item_divider">#eeeeee</color>
+
+    <!-- 搜索 -->
+    <color name="filter_window_back">#f7f7f7</color>
+    <color name="search_change_color">#666666</color>
+    <color name="search_keyword_title">#333333</color>
+    <color name="search_divider_line">#33a0a4ab</color>
+
+    <!-- 侧边栏 -->
+    <color name="slide_space_progress_bg">#2E2E2E</color>
+    <color name="slide_space_progress_green">#AAC655</color>
+    <color name="slide_space_progress_red">#FF6A6A</color>
+    <color name="memory_red">#FF3F00</color>
+
+    <!-- 插件管理  begin -->
+    <color name="plugin_item_tip_normal">#707070</color>
+    <!-- 插件管理 end -->
+
+
+    <!-- 下载管理  begin -->
+    <color name="download_manage_progressbar_bg">#e6e6e6</color>
+    <color name="download_manage_progressbar_progress">#3fd5bb</color>
+    <color name="download_manage_color_state_error">#8DC500</color>
+    <color name="download_manage_color_state_uninstall">#8fe19e</color>
+    <color name="download_manage_color_gray">#808080</color>
+    <!-- 下载管理 end -->
+
+
+    <!-- 我板块 begin -->
+
+    <!-- 我板块 end -->
+
+    <color name="comment_normal">#8ac706</color>
+    <color name="comment_pressed">#86c306</color>
+    <color name="focus_tab_item_normal">#f5f5f5</color>
+
+    <!-- 自升级 版本字体 -->
+    <color name="soft_update_versionsize">#666666</color>
+    <!-- 通知栏背景色 -->
+
+    <!-- 通知栏内容颜色 -->
+    <color name="notify_content_textcolor">#000000</color>
+
+    <!-- 通知栏标题颜色 -->
+    <color name="notify_title_textcolor">#000000</color>
+
+    <!-- 桌面悬浮窗 -->
+
+    <!-- 试玩中心 -->
+    <!-- 详情页 -->
+    <color name="detail_yellow">#feb822</color>
+    <color name="detail_gray">#808080</color>
+    <color name="detail_gray_4ab">#a0a4ab</color>
+    <color name="detail_new_gray">#6a6a6a</color>
+    <color name="detail_divider">#ecedee</color>
+    <color name="detail_title">#333333</color>
+    <color name="detail_card_bg">#ffffff</color>
+    <color name="detail_average_comment">#f3940c</color>
+    <color name="detail_average_score">#b87a47</color>
+    <color name="detail_comment">#666666</color>
+    <color name="detail_new_comment">#feb822</color>
+    <color name="detail_bottom_divider">#ecedee</color>
+    <color name="detail_bottom_bg">#ffffff</color>
+    <color name="detail_relate_cate">#676764</color>
+    <color name="detail_relate_cate_bg_blue">#e0f0fa</color>
+    <color name="detail_relate_cate_bg_green">#e8fcd2</color>
+    <color name="detail_relate_tag_bg">#cccccc</color>
+    <color name="detail_recommend_appname">#666666</color>
+    <color name="detail_comment_hint">#cccccc</color>
+
+    <!-- 一键清理 -->
+    <color name="memory_optimize_startup_arrowvalue">#e45428</color>
+    <color name="memory_optimize_startup_forbidvalue">#666666</color>
+    <color name="memory_optimize_startup_noroottip">#e65428</color>
+    <color name="memory_optimize_bottombtn_nor">#5bdcac</color>
+    <color name="memory_optimize_bottombtn_pre">#80e0bc</color>
+    <color name="memory_optimize_bottombtn_unable">#a6b4c7</color>
+    <color name="memory_optimize_relative_amount">#87baef</color>
+    <color name="memory_optimize_packagetype_damage">#72a4ff</color>
+    <color name="memory_optimize_packagetype_old">#808080</color>
+    <color name="memory_optimize_packagetype_repeat">#755eb5</color>
+    <color name="memory_optimize_packagetype_uninstall">#5cdbad</color>
+    <color name="memory_optimize_package_install">#fff3930e</color>
+    <color name="memory_optimize_bigfile_dialog_bg">#f7f7f7</color>
+    <color name="memory_optimize_bigfile_dialog_title">#666666</color>
+    <color name="memory_optimize_bigfile_dialog_titleline">#EDEDED</color>
+    <color name="memory_optimize_bigfile_dialog_makesuretext">#72a4fe</color>
+    <color name="memory_optimize_halft_bigfile_dialog_makesuretext">#b072a4fe</color>
+    <color name="memory_optimize_process_green">#5cdbad</color>
+    <color name="memory_optimize_bg_line">#393939</color>
+
+    <!-- 推荐 -->
+    <color name="recommend_font_card_title">#333333</color>
+    <color name="recommend_font_card_new_title">#000922</color>
+    <color name="recommend_font_card_content">#666666</color>
+    <color name="recommend_font_card_new_content">#484848</color>
+
+    <!-- 软件分类 -->
+    <color name="category_bg_radionbutton">#96BCFA</color>
+    <color name="category_bg_menu">#687078</color>
+    <color name="category_item">#484848</color>
+    <!-- 娱乐 -->
+
+    <!-- 第三方升级 -->
+    <color name="soft_upgrade_new_version">#96bcfa</color>
+    <color name="soft_upgrade_all_nomal">#4dcda3</color>
+    <color name="soft_upgrade_all_pressed">#b04dcda3</color>
+
+    <!-- 加载 -->
+    <color name="foot_loading_bg">#ededed</color>
+    <color name="foot_loading_divider_line">#e6e6e6</color>
+    <color name="loading_notice_font">#666666</color>
+    <color name="loading_error_bg">#CDededed</color>
+    <color name="loading_error_font">#333333</color>
+
+    <!-- 资源管理 -->
+    <color name="common_status_button_progress">#ff9c00</color>
+    <color name="smart_upgrade_status_button_progress">#55d9af</color>
+
+    <!-- 进度类颜色 -->
+    <color name="progress_orange">#feb822</color>
+    <color name="progress_new_orange">#fcb51f</color>
+    <color name="progress_orange_pre">#feb822</color>
+    <color name="progress_gray">#818181</color>
+    <color name="progress_gray_pre">#b0e5e5e5</color>
+    <color name="progress_green">#19a3bf</color>
+    <color name="progress_green_pre">#b019a3bf</color>
+    <color name="progress_blue">#a3d0f8</color>
+    <color name="progress_blue_pre">#b0a3d0f8</color>
+    <color name="progress_red">#db4e5c</color>
+    <color name="progress_red_pre">#b0db4e5c</color>
+    <color name="webview_progress_bg">#00000000</color>
+    <color name="webview_progress">#ffffd86c</color>
+    <color name="progress_smart_update">#f8ba62</color>
+
+    <!-- 自升级 -->
+    <color name="self_update_title">#666666</color>
+    <color name="self_update_progress">#818181</color>
+
+    <!-- 排行变化文字颜色 -->
+    <color name="rank_hot_num">#e94f43</color>
+    <color name="rank_up_text_color">#f18f8f</color>
+    <color name="rank_down_text_color">#5cdbad</color>
+    <color name="common_title_bg">#ff6ba1f6</color>
+    <color name="menu_selecter_color">#a5c7ff</color>
+    <color name="time_tick_bg">#737e92</color>
+
+    <!-- 专题分类背景颜色 -->
+    <color name="topic_cate_bg_1">#b8b6e1</color>
+    <color name="topic_cate_bg_2">#aae0c3</color>
+    <color name="topic_cate_bg_3">#aad4d9</color>
+    <color name="topic_cate_bg_4">#f4dfab</color>
+    <color name="topic_cate_bg_5">#f1c6d5</color>
+    <color name="topic_cate_bg_6">#b0cff4</color>
+    <!-- 礼包 -->
+
+    <!-- 一键清理 -->
+    <color name="dustclear_bg_nor">#73d3ff</color>
+    <color name="dustclear_text_clearing">#cbcbcb</color>
+    <color name="dustclear_text_nor">#808080</color>
+    <color name="dustclear_bg_bad">#f1881e</color>
+    <color name="dustclear_list_bg">#f8f8f8</color>
+    <color name="dustclear_list_line">#F0F0F0</color>
+    <color name="dustclear_btn_nor">#60b7f7</color>
+    <color name="dustclear_screen_bg_nor">#3f7eec</color>
+    <color name="dustclear_screen_bg_bad">#ea763b</color>
+    
+
+    <!-- 百度wifi热点 -->
+
+    <!-- 搜索框 -->
+
+    <!-- 卸载推荐 -->
+
+    <!-- 我的账号 -->
+    <!-- 下载推荐 -->
+    <color name="download_recommend_press">#ededed</color>
+    <color name="download_recommend_nomorl">#f7f7f7</color>
+
+    <!-- 分类礼包背景色 -->
+
+    <!-- 国家选择 -->
+    <color name="appstore_search_bar_bg">#548deb</color>
+    <color name="appstore_search_text_color">#818181</color>
+    <color name="appstore_divider1">#4174c8</color>
+    <color name="appstore_cur_loc_text_color">#333333</color>
+    <color name="appstore_cur_loc_bg">#f2f2f2</color>
+    <color name="appstore_recommend_info_text_color">#808080</color>
+    <color name="appstore_divider2">#e0e0e0</color>
+    <color name="appstore_bg">#ededed</color>
+    <color name="index_bg">#06b483</color>
+    <color name="appstore_ok_bg">#548eec</color>
+
+    	<!-- 悬浮窗BEGIN -->
+    <!-- 悬浮窗蒙板颜色 -->
+    <color name="flow_window_mask_bg">#CC01040B</color>
+    <!-- 悬浮窗扇形菜单颜色 -->
+    <!-- 悬浮窗内存进度背景 -->
+    <!-- 悬浮窗内存进度条正常 -->
+    <!-- 悬浮窗内存进度条中间 -->
+    <!-- 悬浮窗内存进度条高 -->
+    <!-- 悬浮窗更新角标背景 -->
+    <!-- 悬浮窗内存上水位正常-->
+    <color name="flow_window_memory_above_wave_nor">#90E359</color>
+    <!-- 悬浮窗内存下水位正常 -->
+    <color name="flow_window_memory_blow_wave_nor">#334D22</color>
+    <!-- 悬浮窗内存上水位中间-->
+    <!-- 悬浮窗内存下水位中间 -->
+    <!-- 悬浮窗内存上水位高-->
+    <color name="flow_window_memory_above_wave_high">#F34D4D</color>
+    <!-- 悬浮窗内存下水位高 -->
+    <color name="flow_window_memory_blow_wave_high">#50252B</color>
+    <!-- 悬浮窗对话框标题背景 -->
+    <!-- 悬浮窗对话框标题背景 -->
+    <!-- 悬浮窗对话框标题文本 -->
+    <!-- 悬浮窗对话框文本 -->
+    <!-- 悬浮窗对话框确定按钮文本 -->
+    <!-- 悬浮窗对话框确定按钮文本 -->
+    <!-- 悬浮窗对话框取消按钮文本 -->
+    <!-- 悬浮窗对话框取消按钮文本 -->
+    <!-- 悬浮窗对话框深度清理按钮背景 -->
+    <!-- 悬浮窗END -->
+    
+    <!-- feedback -->
+    <color name="feedback_submit_text">#41cda8</color>
+    <color name="feedback_bottom_bg">#fefefe</color>
+    
+ <!-- 通知栏常驻背景 -->
+    <color name="notification_toolbar">#191919</color>
+	
+    <!-- 电量管理 -->
+    <color name="libui_dialog_title_normal_color">#3898ff</color>
+     <color name="battery_wave">#7cb903</color>
+     <color name="battery_dump_energy">#366331</color>
+     <color name="battery_dump_energy_time">#333333</color>
+     <color name="battery_savemode_tip">#999999</color>
+     <color name="battery_dump_energy_status">#ffffff</color>
+     <color name="libui_custom_white">#FFFFFF</color>
+     <color name="battery_dump_energy_tip">#666666</color>
+     <color name="battery_one_key_config">#65a634</color>
+     <!-- 通知栏 BEGIN -->
+     <color name="notification_memory_progress_bg_color">#4d6168</color>
+     <color name="notification_memory_progress_color">#ffffff</color>
+     
+     <!-- 通知栏 大图-->
+	<color name="notifi_big_bottom">#548deb</color>
+	
+	<!-- 消息列表 -->
+	<color name="messagelist_title">#333333</color>
+	<color name="messagelist_title_light">#72cc22</color>
+	
+	<!-- 壁纸 -->
+
+    <!-- sharesdk -->
+    <color name="sharesdk_edit_ok">#41cea7</color>
+    <color name="sharesdk_edit_text">#808080</color>
+    <!-- 面对面分享 -->
+    <color name="fileshare_bt_down_stroke">#99c0fe</color>
+    <color name="fileshare_bt_down_solid">#70c4fd</color>
+    <color name="fileshare_bt_up_stroke">#97c1fc</color>
+    <color name="fileshare_bt_up_solid">#fcf5ff</color>
+    <color name="fileshare_bt_down_text">#fcf5ff</color>
+    <color name="fileshare_bt_up_text">#548eec</color>
+    <color name="fileshare_invite_text">#cd7cff</color>
+    <color name="fileshare_my_device_text">#548ce9</color>
+    <color name="fileshare_scan_code_text">#333333</color>
+    <color name="fileshare_text_tip">#518abb</color>
+    <color name="fileshare_bg_color">#ededed</color>
+    <color name="fileshare_free_text">#849bbd</color>
+    <color name="fileshare_free_text_num">#3bbfbc</color>
+    <color name="fileshare_title">#2272a8</color>
+    <color name="fileshare_bottom_bg">#fefefe</color>
+    <color name="fileshare_file_size_text">#808080</color>
+    <color name="fileshare_fail_text">#f55756</color>
+    <color name="fileshare_right_btn_bg">#548eec</color>
+    <color name="fileshare_delete_btn_bg">#fcfffc</color>
+    <color name="fileshare_waves_color">#ffffff</color>
+    
+    <!-- 主题显示名称的背景 -->
+    <color name="theme_name_bg">#A6FFFFFF</color>
+    <color name="frame_wallpaper_bg">#dee5f2</color>
+	
+    <!-- 应用升级 -->
+
+	<!-- 引导图遮罩 -->
+	<color name="guide_shade">#99000000</color>
+	
+	<!-- 对话框，标题分割线 -->
+	<color name="divider_line_blue">#cfe1fe</color>
+	<color name="divider_line_gray">#EDEDED</color>
+	<!-- 手机加速 字体颜色 -->
+	<color name="speedup_dialog_textcolor">#98afd2</color>
+	<color name="speedup_dialog_line">#21242e</color>
+
+	
+				<!-- 安装器界面山寨提示语颜色 -->
+    <color name="installer_verify_apk_true">#6ba1f6</color>
+    <color name="installer_btn_white_line">#d9d9d9</color>
+    <color name="installer_btn_white">#f2f2f2</color>
+    <color name="installer_btn_green_line">#3cc296</color>
+    <color name="installer_btn_green">#50cea4</color>
+	<color name="uninstaller_dialog_line">#cce0fe</color>
+	
+	<!-- 桌面悬浮窗下拉弹窗 -->
+	<color name="float_window_ad_app_title">#333333</color>
+	<color name="float_window_ad_app_recommend">#808080</color>
+	<color name="float_window_ad_btn_bg">#50cea4</color>
+	<color name="float_window_ad_top_bg">#ff9b96</color>
+
+
+    <color name="link_color">#005590</color>
+
+    <color name="home_search_hint">#a0a4ab</color>
+
+    <!--空页面字体-->
+    <color name="empty_text_color">#7a7a7a</color>
+
+    <color name="common_list_divider">#ecedee</color>
+    <color name="common_card_divider">#f9f9f9</color>
+
+</resources>
